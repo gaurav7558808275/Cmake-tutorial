@@ -1,0 +1,3 @@
+/home/gaurav/Desktop/work/Cmake-tutorial/Cmake-tutorial/build/CMakeFiles/main.dir
+/home/gaurav/Desktop/work/Cmake-tutorial/Cmake-tutorial/build/CMakeFiles/edit_cache.dir
+/home/gaurav/Desktop/work/Cmake-tutorial/Cmake-tutorial/build/CMakeFiles/rebuild_cache.dir
