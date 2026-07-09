@@ -1,0 +1,3 @@
+/home/gaurav/Desktop/work/Cmake-tutorial/Cmake-tutorial/ninja/CMakeFiles/main.dir
+/home/gaurav/Desktop/work/Cmake-tutorial/Cmake-tutorial/ninja/CMakeFiles/edit_cache.dir
+/home/gaurav/Desktop/work/Cmake-tutorial/Cmake-tutorial/ninja/CMakeFiles/rebuild_cache.dir
